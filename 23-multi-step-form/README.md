@@ -20,22 +20,46 @@
   <img src=".github/preview.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 💻 Projeto
+
+O desafio é criar um componente de formulário dividido em várias etapas.
+
+## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
-- Git e Github
-- Figma
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://reactjs.org/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195050524500542670). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1248257890741817885). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
+## 🚀 Como executar
 
-Esse projeto está sob a licença MIT.
+```bash
+# Clone este repositório
+$ git clone https://github.com/jhonathanalencar/boracodar/23-multi-step-form.git
+
+# Entre na pasta
+$ cd 23-multi-step-form
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev
+
+# A aplicação inciará na porta:5173
+acesse <http://localhost:5173>
+```
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+<p align="center">
+  Feito com ❤️ por Jh
+</p>
