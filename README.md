@@ -42,7 +42,7 @@
         <tr>
             <td>23</td>
             <td><a href="23-multi-step-form">Multi Step Form</a></td>
-            <td>17/06/23</td>
+            <td>17/06/2023</td>
             <td align="center">
             <a href="23-multi-step-form"><img width="300px" src="23-multi-step-form/.github/preview.png" /></a></td>
         </tr>
