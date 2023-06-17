@@ -61,5 +61,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 <p align="center">
-  Feito com ❤️ por Jh
+  <img src=".github/jh.png" width="5%">
 </p>
