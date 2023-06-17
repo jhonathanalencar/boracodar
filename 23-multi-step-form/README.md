@@ -39,10 +39,10 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/jhonathanalencar/boracodar/23-multi-step-form.git
+$ git clone https://github.com/jhonathanalencar/boracodar.git
 
 # Entre na pasta
-$ cd 23-multi-step-form
+$ cd boracodar/23-multi-step-form
 
 # Instale as dependências
 $ npm install
