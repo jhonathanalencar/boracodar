@@ -1,0 +1,8 @@
+.buttonsWrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.buttonsWrapper button:only-child {
+  margin-left: auto;
+}
