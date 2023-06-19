@@ -1,0 +1,93 @@
+.container {
+  height: 100vh;
+  width: 100%;
+
+  display: grid;
+  place-content: center;
+  background-color: #090909;
+}
+
+.content {
+  width: 26.875rem;
+  background-color: #141414;
+  overflow: hidden;
+  padding-top: 26rem;
+  padding-bottom: 3rem;
+  position: relative;
+  text-align: center;
+}
+
+.circle {
+  width: 52.875rem;
+  height: 52.875rem;
+  border-radius: 50%;
+  left: -50%;
+  top: -65%;
+  position: absolute;
+}
+
+.title {
+  font-size: 2rem;
+  line-height: 2.375rem;
+  color: #ffffff;
+}
+
+.controlsWrapper {
+  margin-top: 5.625rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  padding-inline: 3.25rem;
+}
+
+.control {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.control svg {
+  width: 1.5rem;
+  height: 1.5rem;
+  color: #ffffff;
+}
+
+.control input[type="range"] {
+  width: 100%;
+}
+
+.value {
+  min-width: 2rem;
+  color: #7c7d7e;
+  font-weight: bold;
+}
+
+.copyButton {
+  margin-top: 4rem;
+  margin-left: 3.25rem;
+  padding: 0.25rem;
+  border: none;
+  border-radius: 0.25rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: #333538;
+
+  cursor: pointer;
+  transition: 0.25s background-color ease-in-out;
+}
+
+.copyButton:hover {
+  background-color: #7c7d7e;
+}
+
+.copyButton svg {
+  width: 2rem;
+  height: 2rem;
+  color: #ffffff;
+}
