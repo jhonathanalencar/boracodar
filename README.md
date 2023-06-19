@@ -47,7 +47,7 @@
             <a href="23-multi-step-form"><img width="300px" src="23-multi-step-form/.github/preview.png" /></a></td>
         </tr>
         <tr>
-            <td>23</td>
+            <td>24</td>
             <td><a href="24-ajustes-de-iluminacao">Ajustes de iluminação</a></td>
             <td>19/06/2023</td>
             <td align="center">
