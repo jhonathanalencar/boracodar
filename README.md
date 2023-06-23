@@ -53,5 +53,12 @@
             <td align="center">
             <a href="24-ajustes-de-iluminacao"><img width="300px" src="24-ajustes-de-iluminacao/.github/preview.png" /></a></td>
         </tr>
+         <tr>
+            <td>25</td>
+            <td><a href="25-vr-player">Player de VR</a></td>
+            <td>23/06/2023</td>
+            <td align="center">
+            <a href="25-vr-player"><img width="300px" src="24-vr-player/.github/preview.png" /></a></td>
+        </tr>
     </tbody>
 </table></p>
