@@ -58,7 +58,7 @@
             <td><a href="25-vr-player">Player de VR</a></td>
             <td>23/06/2023</td>
             <td align="center">
-            <a href="25-vr-player"><img width="300px" src="24-vr-player/.github/preview.png" /></a></td>
+            <a href="25-vr-player"><img width="300px" src="25-vr-player/.github/preview.png" /></a></td>
         </tr>
     </tbody>
 </table></p>
