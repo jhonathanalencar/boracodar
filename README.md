@@ -60,5 +60,12 @@
             <td align="center">
             <a href="25-vr-player"><img width="300px" src="25-vr-player/.github/preview.png" /></a></td>
         </tr>
+        <tr>
+            <td>26</td>
+            <td><a href="26-receita-junina">Receita Junina</a></td>
+            <td>29/06/2023</td>
+            <td align="center">
+            <a href="26-receita-junina"><img width="300px" src="26-receita-junina/.github/preview.png" /></a></td>
+        </tr>
     </tbody>
 </table></p>
