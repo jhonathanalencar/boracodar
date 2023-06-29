@@ -1,0 +1,27 @@
+:root {
+  --white: #ffffff;
+
+  --clr-beige-300: #feece0;
+  --clr-beige-400: #9b6647;
+  --clr-beige-500: #58190a;
+
+  --ff-primary: "Source Serif 4", serif;
+  --ff-secondary: "Source Sans 3", sans-serif;
+
+  font-family: var(--ff-primary);
+  line-height: 1.5;
+  font-weight: 400;
+  font-size: 1rem;
+
+  background-color: var(--clr-beige-300);
+
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

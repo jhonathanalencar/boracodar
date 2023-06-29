@@ -1,0 +1,28 @@
+.buttonsWrapper {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+
+  font-family: var(--ff-secondary);
+}
+
+.buttonsWrapper button {
+  height: 2rem;
+  width: 2rem;
+  border: 2px solid var(--clr-beige-400);
+  border-radius: 50%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: transparent;
+  color: var(--clr-beige-400);
+
+  cursor: pointer;
+}
+
+.buttonsWrapper button > span {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
